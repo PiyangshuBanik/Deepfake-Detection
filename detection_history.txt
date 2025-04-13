@@ -1,0 +1,172 @@
+2025-03-01 19:23:37 | File: 20220915_195244.jpg | REAL | Confidence: 84.29% | Time: 1.849s
+2025-03-01 19:23:44 | File: 20230812_214001.jpg | FAKE | Confidence: 55.37% | Time: 0.224s
+2025-03-01 19:29:56 | File: WhatsApp Image 2025-02-25 at 10.07.30_6bb01bd7.jpg | REAL | Confidence: 78.38% | Time: 1.546s
+2025-03-01 19:38:37 | File: 20230812_214001.jpg | FAKE | Confidence: 55.37% | Time: 1.52s
+2025-03-01 19:38:46 | File: 20220616_225640.jpg | REAL | Confidence: 59.94% | Time: 0.135s
+2025-03-01 19:39:12 | File: WhatsApp Image 2025-02-25 at 10.05.24_1310561e.jpg | FAKE | Confidence: 73.23% | Time: 0.094s
+2025-03-01 19:40:15 | File: WhatsApp Image 2025-03-01 at 19.39.50_6bad8514.jpg | REAL | Confidence: 53.75% | Time: 0.102s
+2025-03-01 19:40:57 | File: WhatsApp Image 2025-03-01 at 19.40.46_26f4e527.jpg | REAL | Confidence: 55.78% | Time: 0.113s
+2025-03-01 19:41:48 | File: WhatsApp Image 2025-02-22 at 01.47.33_3e8a0b41.jpg | REAL | Confidence: 88.02% | Time: 0.111s
+2025-03-01 19:43:48 | File: sunny-leone-nude.jpg | REAL | Confidence: 65.98% | Time: 0.1s
+2025-03-01 19:47:34 | File: aapnvogymq-001-00.png | REAL | Confidence: 57.26% | Time: 0.098s
+2025-03-01 19:47:40 | File: aapnvogymq-005-01.png | REAL | Confidence: 96.35% | Time: 0.085s
+2025-03-01 19:47:50 | File: abqwwspghj-005-00.png | REAL | Confidence: 51.62% | Time: 0.086s
+2025-03-01 19:48:01 | File: WhatsApp Image 2025-02-25 at 12.38.36_b93c60a9.jpg | FAKE | Confidence: 63.75% | Time: 0.094s
+2025-03-01 19:48:08 | File: abqwwspghj-007-00.png | FAKE | Confidence: 55.06% | Time: 0.084s
+2025-03-01 19:48:14 | File: aapnvogymq-009-01.png | REAL | Confidence: 95.29% | Time: 0.083s
+2025-03-01 19:48:19 | File: aapnvogymq-005-01.png | REAL | Confidence: 96.35% | Time: 0.074s
+2025-03-01 19:48:28 | File: SmartSelect_20220618-221928_Drive.jpg | FAKE | Confidence: 54.59% | Time: 0.092s
+2025-03-01 19:48:35 | File: 20230812_214001.jpg | FAKE | Confidence: 55.37% | Time: 0.188s
+2025-03-01 19:48:43 | File: WhatsApp Image 2025-02-25 at 10.26.48_c76c7730.jpg | FAKE | Confidence: 78.25% | Time: 0.201s
+2025-03-01 19:48:51 | File: WhatsApp Image 2025-03-01 at 19.40.46_26f4e527.jpg | REAL | Confidence: 55.78% | Time: 0.097s
+2025-03-01 19:48:58 | File: aapnvogymq-009-00.png | FAKE | Confidence: 51.43% | Time: 0.083s
+2025-03-01 19:49:36 | File: aagfhgtpmv-009-00.png | REAL | Confidence: 54.53% | Time: 0.083s
+2025-03-01 21:34:32 | File: WhatsApp Image 2025-03-01 at 21.32.30_9671d64d.jpg | FAKE | Confidence: 75.19% | Time: 1.579s
+2025-03-01 21:34:43 | File: WhatsApp Image 2025-03-01 at 21.32.30_a1b5a42f.jpg | FAKE | Confidence: 74.11% | Time: 0.086s
+2025-03-01 21:34:49 | File: WhatsApp Image 2025-03-01 at 21.32.53_25f09f5d.jpg | REAL | Confidence: 60.35% | Time: 0.085s
+2025-03-01 21:35:01 | File: WhatsApp Image 2025-03-01 at 21.32.30_05b5f4ad.jpg | FAKE | Confidence: 53.02% | Time: 0.088s
+2025-03-03 11:25:21 | File: 20230812_214001.jpg | FAKE | Confidence: 55.37% | Time: 2.925s
+2025-03-03 11:25:38 | File: WhatsApp Image 2025-02-25 at 12.38.36_b93c60a9.jpg | FAKE | Confidence: 63.75% | Time: 0.202s
+2025-03-03 11:25:47 | File: aapnvogymq-001-00.png | REAL | Confidence: 57.26% | Time: 0.167s
+2025-03-03 11:25:59 | File: WhatsApp Image 2025-02-25 at 10.19.03_178470af.jpg | REAL | Confidence: 74.58% | Time: 0.194s
+2025-03-03 12:46:56 | File: aagfhgtpmv-009-00.png | REAL | Confidence: 54.53% | Time: 2.741s
+2025-03-03 12:47:11 | File: WhatsApp Image 2025-03-01 at 19.40.46_26f4e527.jpg | REAL | Confidence: 55.78% | Time: 0.253s
+2025-03-03 12:47:22 | File: WhatsApp Image 2025-02-25 at 10.48.43_8faf2727.jpg | REAL | Confidence: 55.01% | Time: 0.157s
+2025-03-05 19:55:50 | File: aagfhgtpmv-009-00.png | REAL | Confidence: 54.53% | Time: 1.34s
+2025-03-05 19:56:11 | File: aapnvogymq-001-00.png | REAL | Confidence: 57.26% | Time: 0.08s
+2025-03-05 19:56:25 | File: WhatsApp Image 2025-02-25 at 12.38.36_b93c60a9.jpg | FAKE | Confidence: 63.75% | Time: 0.084s
+2025-03-05 20:18:09 | File: 20230812_214001.jpg | FAKE | Confidence: 55.37% | Time: 1.808s
+2025-03-05 20:18:17 | File: aapnvogymq-001-00.png | REAL | Confidence: 57.26% | Time: 0.082s
+2025-03-05 20:18:28 | File: WhatsApp Image 2025-02-25 at 10.48.43_8faf2727.jpg | REAL | Confidence: 55.01% | Time: 0.096s
+2025-03-05 20:27:45 | File: WhatsApp Image 2025-02-25 at 10.05.24_1310561e.jpg | FAKE | Confidence: 73.23% | Time: 1.293s
+2025-03-05 20:27:53 | File: WhatsApp Image 2025-02-25 at 10.07.30_6bb01bd7.jpg | REAL | Confidence: 78.38% | Time: 0.089s
+20230812_214001.jpg, FAKE, 0.55%
+20220915_195244.jpg, REAL, 0.16%
+WhatsApp Image 2025-02-25 at 12.38.36_b93c60a9.jpg, FAKE, 0.64%
+WhatsApp Image 2025-02-25 at 10.07.30_6bb01bd7.jpg, REAL, 0.22%
+WhatsApp Image 2025-02-25 at 12.38.36_b93c60a9.jpg, FAKE, 0.64%
+WhatsApp Image 2025-02-25 at 12.39.55_ff91eff1.jpg, FAKE, 0.72%
+WhatsApp Image 2025-02-25 at 10.10.24_034e955b.jpg, REAL, 0.27%
+WhatsApp Image 2025-02-25 at 10.48.43_8faf2727.jpg, REAL, 0.45%
+WhatsApp Image 2025-02-25 at 10.26.48_c76c7730.jpg, FAKE, 0.78%
+20230812_214001.jpg, FAKE, 0.88%
+20230812_214001.jpg, FAKE, 0.88%
+aapnvogymq-004-01.png, FAKE, 0.88%
+aagfhgtpmv-009-00.png, FAKE, 0.88%
+20220616_225640.jpg, FAKE, 0.88%
+WhatsApp Image 2025-02-25 at 10.07.30_6bb01bd7.jpg, FAKE, 0.88%
+aapnvogymq-004-01.png, FAKE, 0.88%
+WhatsApp Image 2025-02-25 at 10.10.24_034e955b.jpg, FAKE, 0.88%
+WhatsApp Image 2025-02-25 at 10.05.24_1310561e.jpg, FAKE, 0.88%
+WhatsApp Image 2025-02-25 at 10.19.03_178470af.jpg, FAKE, 0.88%
+WhatsApp Image 2025-02-25 at 10.26.48_c76c7730.jpg, FAKE, 0.88%
+20230812_214001.jpg, FAKE, 0.75%
+aapnvogymq-004-01.png, FAKE, 0.73%
+20220616_225640.jpg, FAKE, 0.74%
+WhatsApp Image 2025-03-01 at 19.39.50_6bad8514.jpg, FAKE, 0.74%
+WhatsApp Image 2025-02-25 at 10.07.30_6bb01bd7.jpg, FAKE, 0.74%
+20230812_214001.jpg, FAKE, 0.75%
+20220616_225640.jpg, FAKE, 0.74%
+WhatsApp Image 2025-03-01 at 21.32.30_9671d64d.jpg, FAKE, 0.74%
+WhatsApp Image 2025-02-25 at 12.38.36_b93c60a9.jpg, FAKE, 0.73%
+WhatsApp Image 2025-02-25 at 10.48.43_8faf2727.jpg, FAKE, 0.74%
+20230812_214001.jpg, FAKE, 0.75%
+WhatsApp Image 2025-02-25 at 10.07.30_6bb01bd7.jpg, FAKE, 0.74%
+20230812_214001.jpg, FAKE, 0.55%
+WhatsApp Image 2025-02-25 at 10.48.43_8faf2727.jpg, REAL, 0.45%
+20230812_214001.jpg, FAKE, 0.55%
+aapnvogymq-005-01.png, REAL, 0.04%
+WhatsApp Image 2025-02-25 at 10.10.24_034e955b.jpg, REAL, 0.27%
+20220616_225640.jpg, REAL, 0.40%
+WhatsApp Image 2025-02-25 at 10.19.03_178470af.jpg, REAL, 0.25%
+Screenshot 2025-03-05 231037.png, REAL, 0.43%
+605b9b86a82dd0147ed8aa612381326f.jpg, FAKE, 0.74%
+Screenshot 2025-03-05 231155.png, FAKE, 0.51%
+abofeumbvv-008-00.png, FAKE, 0.62%
+WhatsApp Image 2025-03-01 at 21.32.53_25f09f5d.jpg, REAL, 0.40%
+WhatsApp Image 2025-03-01 at 21.32.30_a1b5a42f.jpg, FAKE, 0.74%
+605b9b86a82dd0147ed8aa612381326f.jpg, FAKE, 0.74%
+S0WyG.jpg, REAL, 0.41%
+Screenshot 2025-03-05 231943.png, REAL, 0.43%
+v3_0776176.jpg, FAKE, 0.50%
+v3_0601967.jpg, REAL, 0.36%
+WhatsApp Image 2025-03-05 at 23.22.12_8b158969.jpg, REAL, 0.30%
+WhatsApp Image 2025-03-05 at 23.23.15_3f4004e0.jpg, REAL, 0.18%
+WhatsApp Image 2025-03-05 at 23.23.16_1ebddb99.jpg, FAKE, 0.53%
+WIN_20250228_10_52_38_Pro.jpg, REAL, 0.30%
+v3_0776176.jpg, FAKE, 0.50%
+605b9b86a82dd0147ed8aa612381326f.jpg, FAKE, 0.74%
+aagfhgtpmv-009-00.png, REAL, 0.45%
+20220915_195244.jpg, REAL, 0.16%
+aapnvogymq-001-00.png, REAL, 0.43%
+WhatsApp Image 2025-03-06 at 09.58.48_83eb0d96.jpg, FAKE, 0.69%
+v3_0776176.jpg, FAKE, 0.50%
+20230812_214001.jpg, FAKE, 0.55%
+S0WyG.jpg, REAL, 0.41%
+WhatsApp Image 2025-02-25 at 10.07.30_6bb01bd7.jpg, REAL, 0.22%
+Screenshot 2025-03-05 231155.png, FAKE, 0.51%
+v3_0601967.jpg, REAL, 0.36%
+abofeumbvv-008-00.png, FAKE, 0.62%
+Screenshot 2025-03-05 231037.png, REAL, 0.43%
+Screenshot 2025-03-05 231037.png, REAL, 0.43%
+WhatsApp Image 2025-03-06 at 10.41.21_f3e1f611.jpg, REAL, 0.33%
+WIN_20250228_10_52_41_Pro.jpg, REAL, 0.27%
+aapnvogymq-001-00.png, REAL, 0.43%
+WhatsApp Image 2025-03-01 at 21.32.53_25f09f5d.jpg, REAL, 0.40%
+WhatsApp Image 2025-02-25 at 12.38.36_b93c60a9.jpg, FAKE, 0.64%
+WhatsApp Image 2025-03-01 at 21.32.30_a1b5a42f.jpg, FAKE, 0.74%
+605b9b86a82dd0147ed8aa612381326f.jpg, FAKE, 0.74%
+WhatsApp Image 2025-03-05 at 23.23.15_3f4004e0.jpg, REAL, 0.18%
+WhatsApp Image 2025-03-05 at 23.23.16_1ebddb99.jpg, FAKE, 0.53%
+Screenshot 2025-03-05 231037.png, REAL, 0.43%
+aapnvogymq-004-01.png, REAL, 0.07%
+aapnvogymq-005-01.png, REAL, 0.04%
+aapnvogymq-009-01.png, REAL, 0.05%
+Screenshot 2025-03-05 231943.png, REAL, 0.43%
+20220616_225640.jpg, REAL, 0.40%
+Screenshot 2025-03-05 231155.png, FAKE, 0.51%
+605b9b86a82dd0147ed8aa612381326f.jpg, FAKE, 0.74%
+aagfhgtpmv-009-00.png, REAL, 0.45%
+aapnvogymq-005-01.png, REAL, 0.04%
+20220915_195244.jpg, REAL, 0.16%
+20230812_214001.jpg, FAKE, 0.55%
+WhatsApp Image 2025-02-25 at 10.26.48_c76c7730.jpg, FAKE, 0.78%
+WhatsApp Image 2025-03-01 at 19.40.46_26f4e527.jpg, REAL, 0.44%
+v3_0601967.jpg, REAL, 0.36%
+S0WyG.jpg, REAL, 0.41%
+Screenshot 2025-03-05 231155.png, FAKE, 0.51%
+605b9b86a82dd0147ed8aa612381326f.jpg, FAKE, 0.74%
+WhatsApp Image 2025-02-25 at 10.07.30_6bb01bd7.jpg, REAL, 0.22%
+WhatsApp Image 2025-02-25 at 10.19.03_178470af.jpg, REAL, 0.25%
+WhatsApp Image 2025-03-11 at 12.14.07_61047b70.jpg, REAL, 0.31%
+WhatsApp Image 2025-03-11 at 12.16.06_58fffd7a.jpg, REAL, 0.32%
+605b9b86a82dd0147ed8aa612381326f.jpg, FAKE, 0.74%
+WhatsApp Image 2025-02-25 at 10.19.03_178470af.jpg, REAL, 0.25%
+Screenshot 2025-03-05 231155.png, FAKE, 0.51%
+fake1.jpg, REAL, 0.21%
+WhatsApp Image 2025-02-25 at 10.19.03_178470af.jpg, REAL, 0.25%
+20220616_225640.jpg, REAL, 0.40%
+605b9b86a82dd0147ed8aa612381326f.jpg, FAKE, 0.74%
+aagfhgtpmv-009-00.png, REAL, 0.45%
+aapnvogymq-001-00.png, REAL, 0.43%
+Screenshot 2025-03-05 231155.png, FAKE, 0.51%
+WhatsApp Image 2025-04-10 at 10.42.10_cd429d96.jpg, FAKE, 0.83%
+WhatsApp Image 2025-04-10 at 10.44.35_7cd72535.jpg, REAL, 0.27%
+WhatsApp Image 2025-04-10 at 10.45.40_96a397a8.jpg, FAKE, 0.58%
+WhatsApp Image 2025-04-10 at 10.45.40_96a397a8.jpg, FAKE, 0.58%
+WhatsApp Image 2025-04-10 at 10.45.40_96a397a8.jpg, FAKE, 0.58%
+WhatsApp Image 2025-04-10 at 10.45.40_96a397a8.jpg, FAKE, 0.58%
+WhatsApp Image 2025-04-10 at 10.44.35_7cd72535.jpg, REAL, 0.27%
+WhatsApp Image 2025-04-10 at 10.54.21_57863fde.jpg, REAL, 0.37%
+WhatsApp Image 2025-04-10 at 10.55.07_d5f717cd.jpg, FAKE, 0.59%
+WhatsApp Image 2025-04-10 at 10.56.30_d158d90d.jpg, REAL, 0.46%
+20220616_225640.jpg, REAL, 0.40%
+abofeumbvv-008-00.png, FAKE, 0.62%
+WIN_20250228_10_52_41_Pro.jpg, REAL, 0.27%
+WhatsApp Image 2025-04-10 at 10.56.30_d158d90d.jpg, REAL, 0.46%
+605b9b86a82dd0147ed8aa612381326f.jpg, FAKE, 0.74%
+WhatsApp Image 2025-04-10 at 11.18.27_3993a83d.jpg, REAL, 0.08%
+WhatsApp Image 2025-04-10 at 11.18.27_3993a83d.jpg, REAL, 0.08%
+Screenshot 2025-03-05 231155.png, FAKE, 0.51%
+20220616_225640.jpg, REAL, 0.40%
+20220616_225640.jpg, REAL, 0.40%
